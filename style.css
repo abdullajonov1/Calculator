@@ -1,0 +1,66 @@
+body {
+  padding: 0%;
+  margin: 0%;
+  background-color: rgb(255, 255, 255);
+}
+h1 {
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+form {
+  margin-left: 35vw;
+  margin-top: 10vh;
+  width: 277px;
+  height: 360px;
+  background-color: rgb(29, 30, 36);
+  border-radius: 5px;
+  box-shadow: 3px 3px 10px 1px;
+  align-items: center;
+}
+table {
+  padding: 5px 10px;
+}
+
+#display {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding-bottom: 3px;
+  font-size: 25px;
+  width: 250px;
+  color: rgb(245, 244, 244);
+  background-color: rgb(82, 82, 82);
+  border-radius: 2px;
+  border: 2px solid rgb(61, 60, 60);
+}
+
+input {
+  font-family: sans-serif;
+  padding: 0;
+  width: 60px;
+  height: 60px;
+  border-radius: 2px;
+
+  color: white;
+  /* background-color:rgb(10, 0, 46) ; */
+}
+
+#seven,
+#eight,
+#nine,
+#times,
+#four,
+#five,
+#six,
+#minus,
+#one,
+#two,
+#three,
+#plus,
+#clear,
+#zero,
+#doit,
+#div {
+  background-color: rgb(47, 49, 58);
+}
